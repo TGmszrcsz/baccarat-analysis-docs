@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="760" viewBox="0 0 1440 760" role="img" aria-labelledby="title desc">
+<title id="title">百家乐分析面板 — 功能说明 / Baccarat Analysis Panel — Documentation</title>
+<desc id="desc">中英双语说明封面，介绍路图读取、页面统计及历史记录，不含系统访问或购买入口。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1d3044"/><stop offset="1" stop-color="#101b29"/></linearGradient><linearGradient id="accent"><stop stop-color="#71e2b1"/><stop offset="1" stop-color="#57bfc1"/></linearGradient></defs>
+<rect width="1440" height="760" rx="28" fill="url(#bg)"/>
+<g font-family="PingFang SC,Microsoft YaHei,Noto Sans CJK SC,Arial,sans-serif">
+<rect x="72" y="62" width="8" height="26" rx="4" fill="#70dfb0"/>
+<text x="100" y="83" font-size="23" font-weight="600" letter-spacing="2" fill="#72dfb2">SOFTWARE DOCUMENTATION · 软件功能说明</text>
+<text x="72" y="213" font-size="80" font-weight="700" fill="#eef5fc">百家乐分析面板</text>
+<text x="74" y="286" font-size="48" font-weight="500" fill="#d5e2ef">Baccarat Analysis Panel</text>
+<text x="76" y="364" font-size="31" fill="#adbfce">路图读取 · 页面统计 · 历史记录</text>
+<text x="76" y="410" font-size="25" fill="#8fa8bd">A visual guide to the interface and its statistics</text>
+<g transform="translate(1040 155)">
+<rect width="320" height="254" rx="22" fill="#22384c" stroke="#365068" stroke-width="2"/>
+<rect x="24" y="25" width="93" height="8" rx="4" fill="#6c8aa3"/>
+<circle cx="278" cy="29" r="6" fill="#70dfb0"/>
+<g fill="none" stroke-width="7">
+<circle cx="41" cy="75" r="12" stroke="#76bce5"/><circle cx="87" cy="75" r="12" stroke="#ea8c93"/><circle cx="133" cy="75" r="12" stroke="#76bce5"/><circle cx="179" cy="75" r="12" stroke="#70dfb0"/><circle cx="225" cy="75" r="12" stroke="#ea8c93"/><circle cx="271" cy="75" r="12" stroke="#76bce5"/>
+</g>
+<rect x="27" y="121" width="190" height="18" rx="7" fill="url(#accent)"/>
+<rect x="27" y="155" width="142" height="18" rx="7" fill="#75abd8"/>
+<rect x="27" y="189" width="233" height="18" rx="7" fill="#46647f"/>
+</g>
+<g fill="#1d3043" stroke="#375066" stroke-width="1.5"><rect x="72" y="488" width="408" height="145" rx="18"/><rect x="516" y="488" width="408" height="145" rx="18"/><rect x="960" y="488" width="408" height="145" rx="18"/></g>
+<g fill="#6ddcaf" font-size="18" font-weight="700"><text x="98" y="524">01</text><text x="542" y="524">02</text><text x="986" y="524">03</text></g>
+<g fill="#edf4fc" font-size="31" font-weight="600"><text x="98" y="567">路图读取</text><text x="542" y="567">页面统计</text><text x="986" y="567">历史记录</text></g>
+<g fill="#a5b9cc" font-size="22"><text x="98" y="607">Roadmap reading</text><text x="542" y="607">On-page statistics</text><text x="986" y="607">Historical records</text></g>
+<path d="M72 673H1368" stroke="#354b60"/>
+<text x="74" y="718" font-size="19" letter-spacing="2" fill="#8fa8bd">INTERFACE &amp; STATISTICS GUIDE</text>
+<text x="1367" y="718" text-anchor="end" font-size="19" fill="#8fa8bd">中文 / ENGLISH · 2026.09.17</text>
+</g></svg>
